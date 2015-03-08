@@ -1,0 +1,27 @@
+import java.util.*;
+import java.math.*;
+
+// why it is a good idea to make immutable class final 
+
+
+//missing final keyword 
+class Test2{
+    // immutable class 
+    private final String url = "";
+    public Test2(String url){
+	this.url = url;
+    }
+    public geturl(){
+	return url;
+    }
+	
+    public static void main(String []args){
+	Test2 immu = new Test2("www.google.com")
+	
+	
+    }
+}
+
+class GOTOURL{
+    
+    
