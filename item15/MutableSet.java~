@@ -1,0 +1,7 @@
+import Set
+class MutableSet{
+    public static void main(String [] args){
+	Set a = new HashSet(); 
+	
+    }
+}

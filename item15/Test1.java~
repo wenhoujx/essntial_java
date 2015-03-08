@@ -1,0 +1,11 @@
+import java.util.*;
+import java.math.*;
+
+class Test1{
+    public static void main(String []args){
+	BigInteger a = new BigInteger("1234567890123456789012345678909");
+	a.flipbit(0);
+	
+    }
+}
+    
